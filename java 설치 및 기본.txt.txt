@@ -26,10 +26,10 @@ jdk me(micro edition)
     - [ ctrl + n ]을 누른후 [자바프로젝트 생성]
     - 프로젝트명은 첫 글자 대문자, 띄어쓰기 하지 않고 띄어쓰는 단어의 첫 글자 대문자
     - [ ctrl + n ]을 누른 후 [packge 생성] 
-    - 패키지는 다 소문자로만 씁니다.
+    - 패키지는 다 소문자로만 씁니다.ㅊㅇ.
     - 회사의 도메인을 거꾸로 ( ex ] kr.co.ezen , com.naver , kr.co.lg )
     - [ ctrl + n ]을 누른 후 [class] (*프로젝트 명과 똑같음) 생성
-    - 클래스명은 첫 글자 대문자, 띄어쓰기 하지않고, 띄어쓰는 단어의 첫 글자 대문자
+    - 클래스명은 첫 글자 대문자, 띄어쓰기 하지않고, 띄어쓰는 단어의 첫 글자 대문자(무조건)
     - main() 메소드를 생성
     - [main] 적은 후 , [ctrl + space]
     - console에 출력은 [sysout] 적은 후 [ ctrl + space ]
@@ -72,8 +72,8 @@ javja -
 
 System.out.println("good moring"); >> Sysout ctrl + space
 컨트롤 + 시프트 + s = 저장(안하면 x뜸)
-컨트롤 + n = 
-컨트롤 + 스페이스 =
+컨트롤 + n = 폴더 만들기
+컨트롤 + 스페이스 = 복사
 컨트롤 + 시프트 + f = 정렬
 
 packge - 폴더(디렉토리) 
